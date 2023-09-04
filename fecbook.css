@@ -1,0 +1,67 @@
+body{
+  background-color: rgb(218, 215, 212);
+}
+
+h1{
+  color: blue;
+  font-size: 50px;
+}
+
+p{
+  font-size: 30px;
+}
+
+.g{
+  float: left;
+  width: 40%;
+  margin-top: 12%;
+  margin-left: 10%;
+}
+
+.d{
+  float: right;
+  width: 40%;
+  margin-top: 10%;
+  
+}
+
+input{
+  width: 300px;
+  height: 30px;
+  margin: 3%;
+  margin-left: 8%;
+  border-radius: 5px;
+}
+
+fieldset{
+  width: 350px;
+  background-color: white;
+  border-width: 4px;
+  border-color: black;
+  
+}
+
+h3{
+  text-align: center;
+  text-indent: 60px;
+}
+
+hr{
+  margin-left: 30px;
+  width: 300px;
+}
+
+button{
+  margin-left: 25%;
+  width: 200px;
+  height: 40px;
+  background-color: green;
+  color: white;
+  border-radius: 8px;
+}
+
+h4{
+  text-indent: 20px;
+}
+
+
